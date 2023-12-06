@@ -12,5 +12,8 @@ https://r.honeygain.me/QMOREF3E67
 # How to use the bot
 1. Check your chrome version and download the webdriver that fit your chrome version.
 2. Put your webdriver and license replace the same ones in my folder.
-3. Create a file name ".env" (with no quote)
-4. set up a task manager to automatically execute the program ontime.
+3. Create a file name ".env" (with no quote) and edit it with content below
+   email=yourhoneygainEmail@gmail.com
+   pwd=yourhoneygainPassword
+   These setting is important for the purpose of protecting your and my privacy.
+5. set up a task manager to automatically execute the program ontime.
